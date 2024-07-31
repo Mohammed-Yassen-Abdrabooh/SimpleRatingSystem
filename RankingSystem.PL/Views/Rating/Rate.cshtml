@@ -1,0 +1,51 @@
+﻿@model RatingViewModel
+@{
+    ViewData["Title"] = "Rating Items";
+}
+
+<h1>Rating Items</h1>
+
+<div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="@Model.Item.Name"></label>
+        <input asp-for="@Model.Item.Name" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label class="col-form-label" asp-for="@Model.Item.Price"></label>
+        <input asp-for="@Model.Item.Price" class="form-control" readonly />
+    </div>
+</div>
+
+    <br />
+
+    <form asp-controller="Rating" asp-action="Rate">
+    <input type="hidden" asp-for="ItemId" value="@Model.ItemId"/>
+        <div class="form-group">
+
+            <label asp-for="@Model.StarsNum"></label>
+            <input asp-for="@Model.StarsNum" class="form-control" min="1" max="5"/>
+            <span asp-validation-for="StarsNum"></span>
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Submit Rating</button>
+    </form>
+@section ValidationScriptSection {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+
+
+
+
+@*             <label for="Stars">Rating (1-5)</label>
+            <select id="Stars" name="Stars" class="form-control" required>
+                <option value="@null">--------Star Rate-------</option>
+                <option value="1">1 Star</option>
+                <option value="2">2 Stars</option>
+                <option value="3">3 Stars</option>
+                <option value="4">4 Stars</option>
+                <option value="5">5 Stars</option>
+            </select> *@

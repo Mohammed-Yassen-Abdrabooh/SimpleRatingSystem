@@ -1,0 +1,12 @@
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\bin\Debug\net6.0\RankingSystem.DAL.deps.json
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\bin\Debug\net6.0\RankingSystem.DAL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\bin\Debug\net6.0\RankingSystem.DAL.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.csproj.AssemblyReference.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.AssemblyInfoInputs.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.AssemblyInfo.cs
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.csproj.CoreCompileInputs.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\refint\RankingSystem.DAL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\RankingSystem.DAL.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.DAL\obj\Debug\net6.0\ref\RankingSystem.DAL.dll

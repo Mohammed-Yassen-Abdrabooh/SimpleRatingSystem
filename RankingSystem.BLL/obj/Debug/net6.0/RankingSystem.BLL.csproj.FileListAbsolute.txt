@@ -1,0 +1,15 @@
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\bin\Debug\net6.0\RankingSystem.BLL.deps.json
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\bin\Debug\net6.0\RankingSystem.BLL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\bin\Debug\net6.0\RankingSystem.BLL.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\bin\Debug\net6.0\RankingSystem.DAL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\bin\Debug\net6.0\RankingSystem.DAL.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.csproj.AssemblyReference.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.AssemblyInfoInputs.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.AssemblyInfo.cs
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.csproj.CoreCompileInputs.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.csproj.CopyComplete
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\refint\RankingSystem.BLL.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\RankingSystem.BLL.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RankingSystem.BLL\obj\Debug\net6.0\ref\RankingSystem.BLL.dll

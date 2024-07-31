@@ -1,0 +1,28 @@
+﻿@model ItemViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Item</h1>
+<br/>
+<br/>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Name"></label>
+        <input asp-for="Name" class="form-control"/>
+        <span asp-validation-for="Name"></span>
+    </div>
+    
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Price"></label>
+        <input asp-for="Price" class="form-control"/>
+    </div>
+    <br/>
+    <input type="submit" value="Create" class="btn btn-primary" /> |
+    <a asp-action="Index" class="btn btn-light shadow">Back To list</a>
+</form>
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+}
+

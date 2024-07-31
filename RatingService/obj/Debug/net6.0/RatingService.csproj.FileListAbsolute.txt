@@ -1,0 +1,11 @@
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\bin\Debug\net6.0\RatingService.deps.json
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\bin\Debug\net6.0\RatingService.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\bin\Debug\net6.0\RatingService.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\RatingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\RatingService.AssemblyInfoInputs.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\RatingService.AssemblyInfo.cs
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\RatingService.csproj.CoreCompileInputs.cache
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\RatingService.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\refint\RatingService.dll
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\RatingService.pdb
+D:\front end developer\Route course FullStack\z MGhoniem Training\Back\SimpleRankingSystem\RatingService\obj\Debug\net6.0\ref\RatingService.dll
